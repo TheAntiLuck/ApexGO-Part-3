@@ -127,3 +127,26 @@ dmypy.json
 .idea/
 
 /data
+/agents/deep_bot.h5
+/test_samples.py
+/dlgo/gtp/out.sgf
+
+# ignored agents for now 
+# remove after agent is finalized
+/agents/*
+
+kgs_index.html
+/alphago/data
+/alphago/kgs_index.html
+/alphago/test_samples.py
+
+/alphago/data_1k_e200
+/alphago/alphago_rl_experience.h5
+/alphago/alphago_rl_policy.h5
+/alphago/alphago_sl_policy_e13_1k.h5
+/alphago/alphago_sl_policy_e13_1kgames.h5
+/alphago/alphago_value.h5
+/profile.dat
+/profile.svg
+/node_modules/
+
